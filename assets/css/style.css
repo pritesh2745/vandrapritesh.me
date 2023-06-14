@@ -405,6 +405,18 @@ section {
 .about #about2 {
   margin-top: 70px;
 }
+#about2 img{
+  bottom: 15px;
+  right: 10px;
+  left: auto;
+  
+  top: 80%;
+  background: #7777777b;
+  -webkit-box-shadow: 0 15px 10px #77777784;
+  -moz-box-shadow: 0 15px 10px #7777776a;
+  box-shadow: 0 15px 10px #77777771;
+ 
+}
 .about .content h3 {
   margin-top: 100px;
   font-weight: 700;
